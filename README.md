@@ -1,6 +1,6 @@
 # Spark_ML
 
-Use Spark to run machine learning classification on the adult dataset [1]. 
+Use PySpark on Databrick platform to run machine learning classification on the adult dataset [1]. The adult data set record individual's annual income along with various factors, such as age, education, marital status, work class etc. In this project we utilize PySpark dataframe, SQL, ML, and MLlib to build classifiers to train and predict individual's annual income. 
 
 
 ## About the code  
